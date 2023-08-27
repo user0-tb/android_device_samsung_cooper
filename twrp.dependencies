@@ -5,4 +5,10 @@
    "target_path": "device/samsung/msm7x27-common"
    "branch": "cm-11.0"
  }
+ {
+   "remote": "omnirom"
+   "repository": "android_vendor_omn",
+   "target_path": "vendor/omni"
+   "branch": "android-6.0"
+ }
 ]
