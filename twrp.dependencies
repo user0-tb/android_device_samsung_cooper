@@ -1,6 +1,8 @@
 [
  {
+   "remote": "androidarmv6"
    "repository": "android_device_samsung_msm7x27-common",
    "target_path": "device/samsung/msm7x27-common"
+   "branch": "cm-11.0"
  }
 ]
